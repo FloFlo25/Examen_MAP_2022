@@ -1,0 +1,8 @@
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Cursul9_Grafuri_laslo\bin\Debug\Cursul9.exe.config
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Cursul9_Grafuri_laslo\bin\Debug\Cursul9.exe
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Cursul9_Grafuri_laslo\bin\Debug\Cursul9.pdb
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Cursul9_Grafuri_laslo\obj\Debug\Ex6.csproj.AssemblyReference.cache
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Cursul9_Grafuri_laslo\obj\Debug\Ex6.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Cursul9_Grafuri_laslo\obj\Debug\Ex6.csproj.CoreCompileInputs.cache
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Cursul9_Grafuri_laslo\obj\Debug\Cursul9.exe
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Cursul9_Grafuri_laslo\obj\Debug\Cursul9.pdb

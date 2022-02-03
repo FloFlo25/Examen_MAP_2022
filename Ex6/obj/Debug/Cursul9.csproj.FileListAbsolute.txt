@@ -1,0 +1,13 @@
+D:\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\bin\Debug\Cursul9.exe.config
+D:\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\bin\Debug\Cursul9.exe
+D:\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\bin\Debug\Cursul9.pdb
+D:\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\obj\Debug\Cursul9.csprojAssemblyReference.cache
+D:\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\obj\Debug\Cursul9.exe
+D:\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\obj\Debug\Cursul9.pdb
+C:\My persoanl stuff\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\bin\Debug\Cursul9.exe.config
+C:\My persoanl stuff\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\bin\Debug\Cursul9.exe
+C:\My persoanl stuff\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\bin\Debug\Cursul9.pdb
+C:\My persoanl stuff\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\obj\Debug\Cursul9.csproj.SuggestedBindingRedirects.cache
+C:\My persoanl stuff\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\obj\Debug\Cursul9.csproj.CoreCompileInputs.cache
+C:\My persoanl stuff\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\obj\Debug\Cursul9.exe
+C:\My persoanl stuff\Facultate\An II\Metode Avansate de programare\MAPcursuri\Cursul9\obj\Debug\Cursul9.pdb

@@ -1,0 +1,7 @@
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Ex15\bin\Debug\Ex15.exe.config
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Ex15\bin\Debug\Ex15.exe
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Ex15\bin\Debug\Ex15.pdb
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Ex15\obj\Debug\Ex15.csproj.SuggestedBindingRedirects.cache
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Ex15\obj\Debug\Ex15.csproj.CoreCompileInputs.cache
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Ex15\obj\Debug\Ex15.exe
+C:\Users\raulb\Desktop\FACULTATE\ANUL 2\Sem 1\MAP\Examen\Rezolvari\Ex15\obj\Debug\Ex15.pdb
